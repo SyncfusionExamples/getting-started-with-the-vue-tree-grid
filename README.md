@@ -1,6 +1,6 @@
 # Getting Started with the Vue Tree Grid
 
-Learn how easily you can create and configure the Syncfusion React TreeGrid using the create-react-app toolchain. In this video, I'll add required columns and show parent-child hierarchal data using the expand and collapse options. I'll also show you how to add prominent features to your TreeGrid like paging, sorting, and filtering.
+A quick-start project that shows how to work with the Syncfusion Tree Grid in a Vue application. This project contains simple code customization, as well as some important features like binding data, customizing columns, and enable paging, sorting, and filtering.
 
 Refer to the following documentation for the Syncfusion Vue Tree Grid component: 
 https://ej2.syncfusion.com/vue/documentation/treegrid/getting-started-vue-3/
