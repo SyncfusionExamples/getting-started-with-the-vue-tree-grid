@@ -39,3 +39,23 @@ Through paging, a segment of data can be viewed from the assigned data source. T
 
 Filtering helps view specific or related records that meet a given filtering criteria. It supports various filter types that include powerful Excel-like filter. The Vue Tree Grid filter allows users to choose appropriate filter types, define their own custom filtering logic, and customize the filtering UI based on their application needs. Filtering with related parent or child records can be defined.
 
+
+## Related links
+[Learn More about Vue Tree Grid](https://www.syncfusion.com/vue-components/vue-tree-grid?utm_source=github&utm_medium=listing&utm_campaign=vue-chart-github-samples)
+
+[Download Free Trial](https://www.syncfusion.com/account/manage-trials/downloads?utm_source=github&utm_medium=listing&utm_campaign=vue-chart-github-samples)
+
+[Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=vue-chart-github-samples)
+
+[Documentation](https://ej2.syncfusion.com/vue/documentation/treegrid/getting-started?utm_source=github&utm_medium=listing&utm_campaign=vue-chart-github-samples)
+
+[View Demos](https://github.com/SyncfusionExamples/getting-started-with-the-vue-tree-grid?utm_source=github&utm_medium=listing&utm_campaign=vue-chart-github-samples)
+
+[Community Forums](https://www.syncfusion.com/forums/vue-components?utm_source=github&utm_medium=listing&utm_campaign=vue-chart-github-samples)
+
+[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/vue?utm_source=github&utm_medium=listing&utm_campaign=vue-chart-github-samples)
+
+[Online example](https://ej2.syncfusion.com/vue/demos/#/bootstrap5/tree-grid/default.html?utm_source=github&utm_medium=listing&utm_campaign=vue-chart-github-samples)
+
+[Knowledge base](https://support.syncfusion.com/kb/web/category/73?utm_source=github&utm_medium=listing&utm_campaign=vue-chart-github-samples)
+
