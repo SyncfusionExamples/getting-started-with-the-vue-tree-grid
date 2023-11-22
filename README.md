@@ -32,7 +32,7 @@ Filtering helps view specific or related records that meet a given filtering cri
 ## Related links
 [Learn More about Vue Tree Grid](https://www.syncfusion.com/vue-components/vue-tree-grid?utm_source=github&utm_medium=listing&utm_campaign=vue-tree-grid-github-samples)
 
-[Download Free Trial](https://www.syncfusion.com/downloads/vue?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/vue?utm_source=github&utm_medium=listing&utm_campaign=vue-tree-grid-github-samples)
 
 [Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=vue-tree-grid-github-samples)
 
